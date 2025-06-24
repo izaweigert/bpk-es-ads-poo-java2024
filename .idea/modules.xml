@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Associações/Agregação/Agregação.iml" filepath="$PROJECT_DIR$/Associações/Agregação/Agregação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 01/Aula 01.iml" filepath="$PROJECT_DIR$/Aula 01/Aula 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 04/Aula 04.iml" filepath="$PROJECT_DIR$/Aula 04/Aula 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 05/Aula 05.iml" filepath="$PROJECT_DIR$/Aula 05/Aula 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 06/Aula 06.iml" filepath="$PROJECT_DIR$/Aula 06/Aula 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 07/Aula 07.iml" filepath="$PROJECT_DIR$/Aula 07/Aula 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula_01/Aula_01.iml" filepath="$PROJECT_DIR$/Aula_01/Aula_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula_02/Aula_02.iml" filepath="$PROJECT_DIR$/Aula_02/Aula_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula_03/Aula_03.iml" filepath="$PROJECT_DIR$/Aula_03/Aula_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula_03_Encapsulado/Aula_03_Encapsulado.iml" filepath="$PROJECT_DIR$/Aula_03_Encapsulado/Aula_03_Encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associações/Composição/Composição.iml" filepath="$PROJECT_DIR$/Associações/Composição/Composição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associações/associationProject/associationProject.iml" filepath="$PROJECT_DIR$/Associações/associationProject/associationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bpk-es-ads-poo-java2024.iml" filepath="$PROJECT_DIR$/.idea/bpk-es-ads-poo-java2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 03/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/Aula 03/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 02/exercicios/exercicios2.iml" filepath="$PROJECT_DIR$/Aula 02/exercicios/exercicios2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 02/javaBasic/javaBasic.iml" filepath="$PROJECT_DIR$/Aula 02/javaBasic/javaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 03/javaClassObject/javaClassObject.iml" filepath="$PROJECT_DIR$/Aula 03/javaClassObject/javaClassObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 03/projetoCarro/projetoCarro.iml" filepath="$PROJECT_DIR$/Aula 03/projetoCarro/projetoCarro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associações/projetoPedidos/projetoPedidos.iml" filepath="$PROJECT_DIR$/Associações/projetoPedidos/projetoPedidos.iml" />
+    </modules>
+  </component>
+</project>
